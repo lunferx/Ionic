@@ -1,0 +1,19 @@
+ion-header {
+    background-color: yellow; // Botón "Añadir tarea" en amarillo
+}
+  
+  ion-content {
+    ion-segment {
+        background-color: yellow; // Botón "Añadir tarea" en amarillo
+    }
+  
+    ion-fab {
+      ion-fab-button.add-button {
+        background-color: yellow; // Botón "Añadir tarea" en amarillo
+        ion-icon {
+          color: black; // Cambia el color del ícono si es necesario
+        }
+      }
+    }
+  }
+  

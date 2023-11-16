@@ -1,0 +1,7 @@
+{
+  "name": "PracticaClaseIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
